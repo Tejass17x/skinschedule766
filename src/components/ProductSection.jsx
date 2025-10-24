@@ -5,7 +5,7 @@ import '@/assets/css/ProductModal.css';  
 
 // Your images
 import LGlutatheonTablet from '../assets/Images/L-Glutathione.png';
-import collagen from '../assets/Images/collagen.png';
+import collagen from '../assets/Images/Collagen.png';
 
 // --- 2. IMPORT THE MODAL COMPONENT & CART ---
 import ProductModal from './ProductModal'; // Assumes it's in the same folder
